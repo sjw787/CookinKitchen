@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "Meal Name"; ObjectID = "8y9-3j-gu5"; */
+"8y9-3j-gu5.placeholder" = "Meal Name";
+
+/* Class = "UIButton"; normalTitle = "Add Meal"; ObjectID = "WWs-U9-h36"; */
+"WWs-U9-h36.normalTitle" = "Add Meal";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "a6H-AU-fUW"; */
+"a6H-AU-fUW.placeholder" = "Description";
+
+/* Class = "UITabBarItem"; title = "Meals"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Meals";
+
+/* Class = "UITabBarItem"; title = "New Meal"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "New Meal";
+
+/* Class = "UILabel"; text = "Add Meal"; ObjectID = "xJk-e3-NaX"; */
+"xJk-e3-NaX.text" = "Add Meal";
